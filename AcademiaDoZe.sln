@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademiaDoZe.Dominio", "AcademiaDoZe.Dominio\AcademiaDoZe.Dominio.csproj", "{3F66EBF7-F1F0-4EFC-90D3-8E1FE09B8A80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcademiaDoZe.Domain.tests", "AcademiaDoZe.Domain.tests\AcademiaDoZe.Domain.tests.csproj", "{FF59F9F4-9B40-4057-BEED-5EE362857FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F66EBF7-F1F0-4EFC-90D3-8E1FE09B8A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F66EBF7-F1F0-4EFC-90D3-8E1FE09B8A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F66EBF7-F1F0-4EFC-90D3-8E1FE09B8A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F66EBF7-F1F0-4EFC-90D3-8E1FE09B8A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF59F9F4-9B40-4057-BEED-5EE362857FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF59F9F4-9B40-4057-BEED-5EE362857FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF59F9F4-9B40-4057-BEED-5EE362857FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF59F9F4-9B40-4057-BEED-5EE362857FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9512F1F0-CBA4-428C-8260-6531F15BCA2D}
+	EndGlobalSection
+EndGlobal
